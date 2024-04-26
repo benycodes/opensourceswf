@@ -1,0 +1,9 @@
+﻿package 
+{
+    import mx.core.ByteArrayAsset;
+
+    [Embed(source="symbol_609.bin", mimeType="application/octet-stream")]
+    public class _Str_13566 extends ByteArrayAsset 
+    {
+    }
+}

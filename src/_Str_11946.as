@@ -1,0 +1,9 @@
+﻿package 
+{
+    import mx.core.BitmapAsset;
+
+    [Embed(source="_Str_11946.png")]
+    public class _Str_11946 extends BitmapAsset 
+    {
+    }
+}
